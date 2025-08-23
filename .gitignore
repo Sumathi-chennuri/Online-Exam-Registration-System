@@ -1,1 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and cache
+*.log
+*.tmp
+*.cache
+
+# PHP / Composer
+vendor/
+composer.lock
+
+# Node.js (in case you add frontend npm packages later)
+node_modules/
+
+# Python (if you use scripts for DB or ML later)
+__pycache__/
+*.pyc
+
+# Environment / sensitive files
+.env
+.env.local
+config.php   # if you keep sensitive DB credentials here
+
+# Backup files
+*.bak
+*.sql~       # temp SQL backups (but keep database.sql intentionally!)
 
