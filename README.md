@@ -1,8 +1,8 @@
-📝 Online Exam Registration System
+# 📝 Online Exam Registration System
 
 This project is a web-based Online Exam Registration System that allows students to register, log in, view available exams, make payments, and receive confirmation of successful registration. It is built with a frontend (HTML, CSS, JS) and a backend (PHP & MySQL) for authentication and data management.
 
-🚀 Features
+## 🚀 Features
 
 🔐 User Authentication – Secure login & registration system.
 
@@ -17,7 +17,7 @@ This project is a web-based Online Exam Registration System that allows students
 🗄 Database Integration – MySQL database to store users, exams, and transactions.
 
 
-⚙️ Requirements
+## ⚙️ Requirements
 
 XAMPP / WAMP / MAMP (for PHP & MySQL)
 
@@ -25,7 +25,7 @@ Web Browser (Chrome/Firefox)
 
 MySQL database
 
-▶️ Installation & Setup
+## ▶️ Installation & Setup
 
 Clone the repository:
 
@@ -55,7 +55,7 @@ Start Apache & MySQL from XAMPP.
 
 Open browser → http://localhost/Online-Exam-Registration-System/frontend/index.html
 
-🖼 Screenshots (Add yours here)
+## 🖼 Screenshots (Add yours here)
 
 index page[index.html](https://github.com/user-attachments/files/21949541/index.html)
 
@@ -71,7 +71,7 @@ Payment Page[payment.html](https://github.com/user-attachments/files/21949535/pa
 
 Confirmation Page[confirmation.html](https://github.com/user-attachments/files/21949536/confirmation.html)
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 ✅ Add Admin Panel for managing exams and users.
 
@@ -80,7 +80,3 @@ Confirmation Page[confirmation.html](https://github.com/user-attachments/files/2
 ✅ Integrate Online Exam Taking Module (not just registration).
 
 ✅ Add JWT Authentication for improved security.
-
-📜 License
-
-This project is licensed under the MIT License.
